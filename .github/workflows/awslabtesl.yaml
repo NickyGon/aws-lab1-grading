@@ -1,4 +1,4 @@
-name: AWS Lab 1 Tests
+name: AWS Lab 1 Testing
 
 on:
   push:
